@@ -1,0 +1,15 @@
+/**
+ * CSS for admin-specific functionality
+ */
+
+.pl-an-plugin-status {
+    font-weight: bold;
+}
+
+.pl-an-plugin-status .pl-an-plugin-active {
+    color: green;
+}
+
+.pl-an-plugin-status .pl-an-plugin-inactive {
+    color: red;
+}
